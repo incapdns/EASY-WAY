@@ -1,0 +1,16 @@
+.body {
+	display: flex;
+	justify-content: center;
+}
+.rodape { 
+	color:rgba(0, 0, 0, 1);
+	width:555px;
+	height:28px;
+	position:absolute;
+	left:53px;
+	top:2504px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}
